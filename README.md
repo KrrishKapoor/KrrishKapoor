@@ -1,45 +1,50 @@
 # 👋 Hey, I’m Krrish Kapoor
 
-🎓 Final-year BBA student at the Schulich School of Business, specializing in **Business Analytics & Finance**. I'm passionate about turning raw data into sharp insights and actionable decisions — especially in the finance and motorsport space.
+🎓 Final-year BBA student at the Schulich School of Business, specializing in **Business Analytics & Finance**.  
+Passionate about transforming data into insights that drive better financial and strategic decisions — particularly in the **finance** and **motorsport** industries.
 
-📍 Based in Toronto | Open to Analyst Roles in Data, Finance, or Strategy
+📍 Based in Toronto | Open to Analyst Roles in **Data**, **Finance**, or **Strategy**
 
 ---
 
-## 🔎 What I’m About
+## 🔎 About Me
 
-- 📊 **Data Analytics Enthusiast** — skilled in SQL, R, and Python for building simulations, financial models, and performance dashboards.
-- 📈 **Finance-Focused** — strong foundation in investments, forecasting, and optimization.
-- 💼 **Collaborative by Nature** — thrive in cross-functional teams, case competitions, and startup ecosystems.
+- 📊 **Data-Driven Thinker** — skilled in SQL, R, Python, and Excel for building simulations, financial models, dashboards, and actionable analyses.
+- 📈 **Finance-Focused Analyst** — strong foundation in investments, forecasting, risk management, and optimization techniques.
+- 💡 **Problem-Solver and Collaborator** — thrive in cross-functional teams, case competitions, and startup environments.
 
 ---
 
 ## 📁 Featured Projects
 
 ### 🔹 [OAS/CPP Optimization Model](https://github.com/KrrishKapoor/OAS-Strategy-Simulation)
-> A simulation-based financial model to evaluate optimal Old Age Security (OAS) withdrawal strategies for Canadian retirees.  
-> Built in R, using Monte Carlo simulations, tax modeling, and a Markov-switching return engine.
+> A simulation-based financial model evaluating optimal Old Age Security (OAS) and CPP withdrawal strategies for Canadian retirees.  
+> Built in R using Monte Carlo simulations, dynamic tax modeling, and market return simulations.
+
+### 🔹 [Credit Card Fraud Detection](https://github.com/KrrishKapoor/credit-card-fraud-detection)  
+> A finance-focused machine learning project using Random Forest to detect fraudulent credit card transactions.  
+> Emphasized business risk management with threshold tuning, ROC analysis, and operational recommendations.
 
 ### 🔹 [Portfolio Return Simulator (Coming Soon)](#)
-> Exploring portfolio sustainability under varying market sequences and asset allocations using R.
+> Modeling portfolio survival probabilities under varying market sequences and asset allocations using R.
 
 ---
 
 ## 🧰 Skills & Tools
 
 - **Languages:** R, Python, SQL, Excel
-- **Analytics:** Monte Carlo Simulation, Regression, Forecasting, Financial Modeling
-- **Data Viz:** Tableau, Power BI, ggplot2
+- **Analytics:** Monte Carlo Simulation, Regression, Forecasting, Financial Modeling, Classification Modeling
+- **Visualization:** Tableau, Power BI, Matplotlib, ggplot2
 - **Databases:** FileMaker Pro, ER Modeling (3NF), Structured Querying
-- **Soft Skills:** Public Speaking, Team Collaboration, Entrepreneurship
+- **Core Strengths:** Data Storytelling, Risk Analysis, Business Strategy, Public Speaking
 
 ---
 
 ## 🏆 Highlights
 
-- 🥇 1st place – Startup Pitch Competition (Rentwise)
-- 🏆 Winner – Schulich Data Case on Meta & Twitter growth
-- 💼 Internship – Business Analyst @ UPS (2023)
+- 🥇 1st Place – Startup Pitch Competition (Rentwise)
+- 🏆 Winner – Schulich Data Analytics Case on Meta & Twitter growth
+- 💼 Business Analyst Intern – UPS Canada (2023)
 
 ---
 
@@ -49,7 +54,6 @@
 - **LinkedIn:** [linkedin.com/in/krrishkapoorr](https://linkedin.com/in/krrishkapoorr)  
 - **Location:** Toronto, ON, Canada  
 
-> “Data is just the beginning. It’s what you do with it that creates the story.”
+> “Data is just the beginning. It’s the story you tell with it that creates real impact.”
 
 ---
-

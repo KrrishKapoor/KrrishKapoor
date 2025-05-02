@@ -63,7 +63,7 @@ Every fraudulent Visa transaction costs the issuer \$10–\$40 in chargebacks an
 
 ---
 
-### 3️⃣ [Customer Churn Prediction](https://github.com/KrrishKapoor/churn-prediction)  
+### 3️⃣ [Customer Churn Prediction](https://github.com/KrrishKapoor/Customer-Churn-Prediction-ML-Business-Analysis))  
 
 **Problem**  
 Digital-bank customers who exit in their first year wipe out CAC and cut future cross-sell. Knowing who’s at risk lets retention teams intervene with targeted offers.

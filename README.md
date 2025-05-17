@@ -11,11 +11,26 @@
 > If my projects or writing resonate with you, feel free to reach out, always happy to talk data, strategy, or Formula 1.
 
 <!-- ---------- NAVIGATION “BUTTONS” ---------- -->
-<p align="center">
+<p align="center" style="line-height:0;">
   <!-- Résumé -->
-  <a href="https://drive.google.com/file/d/1yJW2w8SjiAy_M2SAtzroO2ClkF7kEcx_/view?usp=sharing" title="Résumé"><img src="https://img.shields.io/badge/Resume-5C4EE6.svg?style=for-the-badge" alt="Résumé"></a><!--
+  <a href="https://drive.google.com/file/d/1yJW2w8SjiAy_M2SAtzroO2ClkF7kEcx_/view?usp=sharing"
+     title="Résumé"
+     style="text-decoration:none;">
+    <img src="https://custom-icon-badges.demolab.com/badge/Resume-5C4EE6.svg?logo=icons8-resume-50"
+         alt="Résumé"
+         height="26"></a><!--
   --><!-- Tableau -->
-  <a href="https://public.tableau.com/app/profile/krrish.kapoor/vizzes" title="Tableau Dashboards"><img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a><!--
+  <a href="https://public.tableau.com/app/profile/krrish.kapoor/vizzes"
+     title="Tableau Dashboards"
+     style="text-decoration:none;">
+    <img src="https://custom-icon-badges.demolab.com/badge/Tableau-E97627.svg?logo=icons8-tableau-software-50"
+         alt="Tableau"
+         height="26"></a><!--
   --><!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/krrishkapoorr/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/krrishkapoorr/"
+     title="LinkedIn Profile"
+     style="text-decoration:none;">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5.svg?logo=linkedinhopp"
+         alt="LinkedIn"
+         height="26"></a>
 </p>

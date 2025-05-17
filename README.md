@@ -1,46 +1,49 @@
-# 👋 Hey, I’m Krrish Kapoor
+<!-- ---------- NAVIGATION “BUTTONS” ---------- -->
+<p align="center">
+  <!-- purple -->
+  <a href="#terraform-components">
+    <img src="https://img.shields.io/badge/TERRAFORM%20COMPONENTS-5C4EE6?style=for-the-badge">
+  </a>
+  <!-- black – looks like the “active” tab -->
+  <a href="#development-blog">
+    <img src="https://img.shields.io/badge/DEVELOPMENT%20BLOG-000000?style=for-the-badge">
+  </a>
+  <!-- blue (pick any colour) -->
+  <a href="#open-source">
+    <img src="https://img.shields.io/badge/OPEN%20SOURCE%20CONTRIBUTIONS-5865F2?style=for-the-badge">
+  </a>
+</p>
 
-🎓 **Final-year BBA** student at the Schulich School of Business, specializing in **Business Analytics & Finance**  
-📍 **Toronto, Canada** | 🔎 **Open to Analyst roles in Data · Finance · Strategy**
+<!-- ---------- TYPING HEADER ---------- -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?
+  font=IBM+Plex+Mono&weight=500&size=28&duration=6000&pause=1000
+  &color=F7F7F7&width=435
+  &lines=About+Me%3A)](https://git.io/typing-svg)
 
-I’m passionate about turning raw data into actionable insights—especially where money, markets, and motorsport intersect.  
-Whether it’s simulating retirement strategies, flagging fraudulent transactions, or predicting customer churn, I love projects that pair rigorous modeling with clear business impact.
-
----
-
-## 🔎 About Me
-
-- 📊 **Data-Driven Thinker** Skilled in **SQL · R · Python · Excel** for simulations, financial models, dashboards, and deep-dive analyses.  
-- 📈 **Finance-Focused Analyst** Grounded in investments, forecasting, risk management, and optimization techniques.  
-- 💡 **Problem-Solver & Collaborator** Thrive in cross-functional teams, case comps, and startup environments; comfortable presenting to execs and entrepreneurs.  
-
----
-
-## 🧰 Skills & Tools
-
-| Category | Stack & Methods |
-|----------|-----------------|
-| **Languages** | R · Python · SQL · Excel/VBA |
-| **Analytics & Modeling** | Machine Learning · Monte Carlo simulation · Regression & Classification · Forecasting · Financial modeling · Optimization |
-| **Visualization** | Tableau · Power BI · ggplot2 · Matplotlib |
-| **Databases** | PostgreSQL · FileMaker Pro · ER modeling (3NF) |
-| **Workflow** | Git & GitHub · GitHub Actions · VS Code · Markdown |
-| **Soft skills** | Data storytelling · Risk analysis · Business strategy · Public speaking |
-
----
-
-## 🏆 Highlights
-
-- 🥇 **1st Place** – Rentwise Startup Pitch Competition  
-- 🏆 **Winner** – Schulich Data Analytics Case (Meta & Twitter growth)  
-- 💼 **Business Analyst Intern** – UPS Canada (2023)
+<!-- ---------- CALLOUT / ALERT ---------- -->
+> [!IMPORTANT]
+> Hey, I’m **YOUR NAME**!
+> 
+> I build 🚀 things… (two or more lines are fine).
 
 ---
 
-## 📫 Let’s Connect
+[![Typing SVG](https://readme-typing-svg.demolab.com?
+  font=IBM+Plex+Mono&weight=500&size=28&duration=6000&pause=1000
+  &color=F7F7F7&width=435
+  &lines=Development+Blog%3A)](https://git.io/typing-svg)
 
-- **Email** krrishkapoor3103@gmail.com  
-- **LinkedIn** <https://linkedin.com/in/krrishkapoorr>  
-- **Location** Toronto, ON  
+- [Post 1](#)  
+- [Post 2](#)  
+- …
 
-> *“Data is just the beginning. It’s the story you tell with it that creates real impact.”*
+---
+
+## <a id="terraform-components"></a>Terraform Components
+*Describe or list your modules here.*
+
+## <a id="development-blog"></a>Development Blog
+*Same idea—this anchor is where the black badge points.*
+
+## <a id="open-source"></a>Open-source Contributions
+*List PRs, projects, etc.*

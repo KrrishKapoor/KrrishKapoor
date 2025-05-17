@@ -15,35 +15,9 @@
 </p>
 
 <!-- ---------- TYPING HEADER ---------- -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?
-  font=IBM+Plex+Mono&weight=500&size=28&duration=6000&pause=1000
-  &color=F7F7F7&width=435
-  &lines=About+Me%3A)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=28&duration=6000&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A" alt="Typing SVG" /></a>
 <!-- ---------- CALLOUT / ALERT ---------- -->
 > [!IMPORTANT]
 > Hey, I’m **YOUR NAME**!
 > 
 > I build 🚀 things… (two or more lines are fine).
-
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?
-  font=IBM+Plex+Mono&weight=500&size=28&duration=6000&pause=1000
-  &color=F7F7F7&width=435
-  &lines=Development+Blog%3A)](https://git.io/typing-svg)
-
-- [Post 1](#)  
-- [Post 2](#)  
-- …
-
----
-
-## <a id="terraform-components"></a>Terraform Components
-*Describe or list your modules here.*
-
-## <a id="development-blog"></a>Development Blog
-*Same idea—this anchor is where the black badge points.*
-
-## <a id="open-source"></a>Open-source Contributions
-*List PRs, projects, etc.*

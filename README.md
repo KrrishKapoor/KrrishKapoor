@@ -1,23 +1,30 @@
 <!-- ---------- NAVIGATION “BUTTONS” ---------- -->
 <p align="center">
-  <!-- purple -->
-  <a href="#terraform-components">
-    <img src="https://img.shields.io/badge/TERRAFORM%20COMPONENTS-5C4EE6?style=for-the-badge">
+  <!-- Internal tab – scrolls to the projects section -->
+  <a href="#projects">
+    <img src="https://img.shields.io/badge/Resume-5C4EE6?style=for-the-badge&logo=github&logoColor=white" alt="Data Projects badge">
   </a>
-  <!-- black – looks like the “active” tab -->
-  <a href="#development-blog">
-    <img src="https://img.shields.io/badge/DEVELOPMENT%20BLOG-000000?style=for-the-badge">
+
+  <!-- Tableau Public -->
+  <a href="https://public.tableau.com/app/profile/krrish.kapoor/vizzes">
+    <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau dashboards badge">
   </a>
-  <!-- blue (pick any colour) -->
-  <a href="#open-source">
-    <img src="https://img.shields.io/badge/OPEN%20SOURCE%20CONTRIBUTIONS-5865F2?style=for-the-badge">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/krrishkapoorr/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
   </a>
 </p>
+
 
 <!-- ---------- TYPING HEADER ---------- -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=28&duration=6000&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A" alt="Typing SVG" /></a>
 <!-- ---------- CALLOUT / ALERT ---------- -->
 > [!IMPORTANT]
-> Hey, I’m **YOUR NAME**!
-> 
-> I build 🚀 things… (two or more lines are fine).
+> Hey, I’m **Krrish Kapoor**!
+>  
+> I design end-to-end analytics pipelines in **Python, SQL, and R**—from data engineering and EDA to ML modelling and interactive dashboards. My work has powered credit-risk scorecards, customer-churn predictors, and Monte Carlo retirement simulations used by leadership teams to save time and money. I thrive on translating complex models into clear stories for stakeholders, pairing statistical rigour with a sharp business lens.  
+>  
+> I’m currently open to **Data / Business Analyst roles** where I can help organisations unlock value through analytics, especially in **finance or motorsport-tech**.  
+>  
+> If my projects or writing resonate with you, feel free to reach out—always happy to talk data, strategy, or Formula 1.

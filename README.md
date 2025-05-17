@@ -13,14 +13,9 @@
 <!-- ---------- NAVIGATION “BUTTONS” ---------- -->
 <p align="center">
   <!-- Résumé -->
-  <a href="https://drive.google.com/file/d/1yJW2w8SjiAy_M2SAtzroO2ClkF7kEcx_/view?usp=sharing" title="Résumé"><img src="https://img.shields.io/badge/Resume-5C4EE6.svg?style=for-the-badge&logo=github&logoColor=white" alt="Résumé"></a><!--
+  <a href="https://drive.google.com/file/d/1yJW2w8SjiAy_M2SAtzroO2ClkF7kEcx_/view?usp=sharing" title="Résumé"><img src="https://img.shields.io/badge/Resume-5C4EE6.svg?style=for-the-badge" alt="Résumé"></a><!--
   --><!-- Tableau -->
   <a href="https://public.tableau.com/app/profile/krrish.kapoor/vizzes" title="Tableau Dashboards"><img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a><!--
   --><!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/krrishkapoorr/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-
-
-
-
-

@@ -1,20 +1,30 @@
 <!-- ---------- NAVIGATION “BUTTONS” ---------- -->
 <p align="center">
-  <!-- Internal tab – scrolls to the projects section -->
+  <!-- Internal tab – scrolls to the Projects section -->
   <a href="#projects">
-    <img src="https://img.shields.io/badge/Resume-5C4EE6?style=for-the-badge&logo=github&logoColor=white" alt="Data Projects badge">
+    <img
+      src="https://img.shields.io/badge/Resume-5C4EE6?style=for-the-badge&logo=github&logoColor=white"
+      alt="Resume badge"
+    />
   </a>
 
   <!-- Tableau Public -->
   <a href="https://public.tableau.com/app/profile/krrish.kapoor/vizzes">
-    <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau dashboards badge">
+    <img
+      src="[https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&logoWidth=20](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)"
+      alt="Tableau badge"
+    />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/krrishkapoorr/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"
+      alt="LinkedIn badge"
+    />
   </a>
 </p>
+
 
 
 <!-- ---------- TYPING HEADER ---------- -->
